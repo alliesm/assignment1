@@ -1,0 +1,40 @@
+main {
+  background-color: lavender;
+}
+nav {
+  color: blue;
+}
+footer{
+  color: red;
+}
+header{
+  color: black;
+}
+body {
+  background-color: lavender;
+}
+h1 {
+  color: blue;
+}
+p {
+  font-family: serif;
+}
+img{
+  border-radius: 8px;
+}
+
+table{
+  font-size: 1.5em;
+  font-family: serif;
+  color: palevioletred;
+  background-color: lightblue;
+}
+th{
+   color: white;
+  background-color: black;
+
+}
+
+tr:nth-child(odd) { 
+            background-color: lightgray; 
+        } 
